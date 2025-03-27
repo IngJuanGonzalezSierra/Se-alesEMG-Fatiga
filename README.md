@@ -1,2 +1,4 @@
 # Se-alesEMG-Fatiga
 En el siguiente repositorio se mostrará una adquisición de señal electromiográfica (EMG) del músculo de un usuario el cual está realizando una contracción muscular hasta la fatiga, se aplicará un filtrado usando un filto pasa altas y un filtro pasa bajas.
+El repositorio cuenta con el código, la documentación, implementación y diseño de un filtro Butterworth, el cuál recibe y filtra las señales del dispositivo AD8232.
+
