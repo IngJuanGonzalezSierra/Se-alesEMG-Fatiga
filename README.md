@@ -11,7 +11,6 @@ La señal se adquirió principalmente de tres músculos: el flexor ulnar del car
 
 <img src="https://github.com/user-attachments/assets/a4c3d7df-bed1-4b32-b198-4145f54d3630" width="700" alt="Imagen 2" style="display: inline-block;"/>
 
--<img src="https://github.com/user-attachments/assets/cf881c67-99cb-4407-b10a-79112734a435" width="200" alt="Imagen 1" style="display: inline-block;"/>
 
 La señal original capturada presenta las siguientes características:
 - *Frecuencia de muestreo*: 3000 Hz
