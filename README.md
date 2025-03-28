@@ -179,28 +179,24 @@ Dado que no se pudo realizar un análisis estadístico formal  y considerando qu
 ![Image](https://github.com/user-attachments/assets/07d81d4d-c9f2-44ef-a1b0-c32c6bb3e8ee)
 *Figura 8: Espectro de frecuencia de la ventana 593.*
 
-<img src="594v.jpg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/fc50e5d5-5c3c-4406-9eb5-34e4245bdaf2)
 *Figura 9: Ventana Hanning 594.*
-<img src="594e.jpg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/396df505-7b58-4d8b-adfe-aa8b3aa5bd79)
 *Figura 10: Espectro de frecuencia de la ventana 594.*
 
-<img src="595v.jpg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/65bf1d07-a861-4673-9483-c18e2f9e8a7a)
 *Figura 11: Ventana Hanning 595.*
-<img src="595e.jpg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/d326ade7-2630-479f-a37c-0d4435209c4b)
 *Figura 12: Espectro de frecuencia de la ventana 595.*
-## Archivos
 
-- [Descargar archivo .zip](nombre_del_archivo.zip)
-
-
-<img src="596v.jpg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/ff4e7fd9-43bb-4cb4-ae40-7d0144a16ee5)
 *Figura 13: Ventana Hanning 596.*
-<img src="596e.jpg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/bb69ed11-10a9-4b50-b359-c049be96d86a)
 *Figura 14: Espectro de frecuencia de la ventana 596.*
 
-<img src="597v.jpg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/479c52c7-37bf-40e2-9984-c1e8de7ab0ee)
 *Figura 15: Ventana Hanning 597.*
-<img src="597e.jpg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/2cb72fa6-bc25-498e-b00a-6932202fd37a)
 *Figura 16: Espectro de frecuencia de la ventana 597.*
 
 <img src="598v.jpg" alt="Ventana de Hanning" width="400"/>
