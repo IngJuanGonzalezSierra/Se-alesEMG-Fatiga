@@ -199,19 +199,19 @@ Dado que no se pudo realizar un análisis estadístico formal  y considerando qu
 ![Image](https://github.com/user-attachments/assets/2cb72fa6-bc25-498e-b00a-6932202fd37a)
 *Figura 16: Espectro de frecuencia de la ventana 597.*
 
-<img src="598v.jpg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/b688f6be-8431-47f5-a1cf-57afbb8f0341)
 *Figura 17: Ventana Hanning 598.*
-<img src="598e.jpg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/c1cfcca4-470f-401d-97a2-2b548cb12e0b)
 *Figura 18: Espectro de frecuencia de la ventana 598.*
 
-<img src="599v.jpg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/8add380c-1828-4a1b-b5c4-e6f2dd9db7e3)
 *Figura 19: Ventana Hanning 599.*
-<img src="599e.jpg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/7c771dc0-478b-4a76-b1e6-db6a7641bcf8)
 *Figura 20: Espectro de frecuencia de la ventana 599.*
 
-<img src="600v.jpg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/ce1e13e2-607c-4f6f-b629-11c0a3d8a090)
 *Figura 21: Ventana Hanning 600.*
-<img src="600e.jpg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/4547ca1c-3c46-410d-ae11-4626ea782db8)
 *Figura 22: Espectro de frecuencia de la ventana 600.*
 
 ## Archivos
