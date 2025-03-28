@@ -64,7 +64,7 @@ Estas especificaciones permiten capturar adecuadamente las señales ECG, reducie
 
 4. **Cálculo del Orden del Filtro**: Para determinar el orden adecuado del filtro, es necesario realizar cálculos que aseguren una correcta atenuación y un rendimiento óptimo en la filtración de la señal. El orden del filtro determina la complejidad y la precisión del filtrado. A continuación, se muestra la ecuación utilizada para calcular el orden:
 
-  <img src="ecuaciones2.png" alt="Cálculo del orden del filtro" width="400"/>
+![Image](https://github.com/user-attachments/assets/6152c549-1090-47e2-837c-82c91a40d4c7)
    *Figura 4: Cálculo del orden del filtro Butterworth.*
 ## Aplicación de las ventanas de Hanning 
 Elegimos la ventana de Hanning para analizar la señal de electromiografía porque ofrece varias ventajas. Primero, suaviza la señal, lo que reduce las discontinuidades y distorsiones en el análisis de frecuencias, permitiendo una representación más precisa de las componentes de la señal.
