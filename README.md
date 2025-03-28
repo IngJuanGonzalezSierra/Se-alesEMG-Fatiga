@@ -46,8 +46,7 @@ Estas especificaciones permiten capturar adecuadamente las señales ECG, reducie
 
 1. **Filtro Pasabanda**: En la primera etapa, se diseña un filtro pasabanda que permite el paso de frecuencias entre 40 Hz y 500 Hz, atenuando tanto las frecuencias bajas como las muy altas. A continuación, se muestra la gráfica de la respuesta en frecuencia del filtro pasabanda:
 
-<img src="WhatsApp%20Image%202024-10-03%20at%209.02.50%20PM.jpeg" alt="Respuesta en frecuencia del filtro pasabanda" width="400"/>
-
+![Image](https://github.com/user-attachments/assets/cf282f1d-effd-4a14-ba9a-883d1f5ec815)
    *Figura 1: Respuesta en frecuencia del filtro pasabanda.*
 
 2. **Cálculo de Ωr**: Para la transformación de pasabanda a pasabajo, es necesario calcular el valor de Ωr utilizando las siguientes ecuaciones:
