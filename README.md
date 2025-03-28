@@ -58,7 +58,7 @@ Estas especificaciones permiten capturar adecuadamente las señales ECG, reducie
 
 3. **Filtro Pasabajo**: Con el valor de Ωr calculado, se ajusta el diseño del filtro para convertirlo en un filtro pasabajo normalizado. Este filtro permite una mejor eliminación de las frecuencias no deseadas, enfocándose en el rango de interés más bajo para mejorar la calidad de la señal ECG. A continuación, se muestra la gráfica del filtro pasabajo:
 
-  <img src="WhatsApp%20Image%202024-10-03%20at%209.03.22%20PM.jpeg" alt="Gráfica del filtro pasabajo" width="400"/>
+  ![Image](https://github.com/user-attachments/assets/9f1ff74d-f5d6-44bf-bfb4-49fa20447e07)
 
    *Figura 3: Respuesta en frecuencia del filtro pasabajo.*
 
