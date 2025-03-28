@@ -169,14 +169,14 @@ Dado que no se pudo realizar un análisis estadístico formal  y considerando qu
 - Sin embargo, la variabilidad observada, especialmente en la frecuencia media de la ventana 600, sugiere que hay diferencias en los datos que podrían apoyar la hipótesis alternativa (H₁) si tuviéramos más datos o un análisis más detallado.
   
 ## Anexos
-<img src="592v.jpeg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/92b7b554-7505-4bc6-8363-3e896d182c2c)
 *Figura 5: Ventana Hanning 592.*
-<img src="592e.jpeg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/70fc90b5-b30b-44bf-a3c6-ad8b4fe5b4bc)
 *Figura 6: Espectro de frecuencia de la ventana 592.*
 
-<img src="593v.jpeg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/13f200b1-3e66-45cf-bfce-d58b9741899d)
 *Figura 7: Ventana Hanning 593.*
-<img src="593e.jpg" alt="Ventana de Hanning" width="400"/>
+![Image](https://github.com/user-attachments/assets/07d81d4d-c9f2-44ef-a1b0-c32c6bb3e8ee)
 *Figura 8: Espectro de frecuencia de la ventana 593.*
 
 <img src="594v.jpg" alt="Ventana de Hanning" width="400"/>
