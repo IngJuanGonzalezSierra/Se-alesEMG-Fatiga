@@ -73,7 +73,7 @@ Además, la ventana de Hanning mejora la resolución de frecuencias, lo cual es 
 
 Por último, es especialmente útil para señales con componentes de frecuencia específicas, ya que ayuda a destacar esas frecuencias en el espectro.
 
-En este caso decidimos analizar la ventana 591 porque es una de las ultimas contracciones hechas en el lapso de tiempo en que adquirimos los datos, pues a este punto el musculo estba llegando a la fatiga, hicimos 600 contracciones y por cada una de ellas una vantana de hanning, pero de estas ploteamos las ultimas 10 para visualizar la llegada a la fatiga muscular.
+En este caso escogí la ventana 591 porque es una de las últimas contracciones hechas en el lapso de tiempo en que adquirimos los datos, pues a este punto el musculo estba llegando a la fatiga, hicimos 600 contracciones y por cada una de ellas una vantana de hanning, pero de estas ploteamos las ultimas 10 para visualizar la llegada a la fatiga muscular.
 
 ![image](https://github.com/user-attachments/assets/c8358c26-34e7-4200-8543-3b2ca19b6f45)
 
