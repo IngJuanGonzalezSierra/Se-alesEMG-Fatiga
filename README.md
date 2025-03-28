@@ -66,7 +66,7 @@ Estas especificaciones permiten capturar adecuadamente las señales ECG, reducie
 ![Image](https://github.com/user-attachments/assets/6152c549-1090-47e2-837c-82c91a40d4c7)
    *Figura 4: Cálculo del orden del filtro Butterworth.*
 ## Aplicación de las ventanas de Hanning 
-Elegimos la ventana de Hanning para analizar la señal de electromiografía porque ofrece varias ventajas. Primero, suaviza la señal, lo que reduce las discontinuidades y distorsiones en el análisis de frecuencias, permitiendo una representación más precisa de las componentes de la señal.
+Se eligió la ventana de Hanning para analizar la señal de electromiografía porque ofrece varias ventajas. Primero, suaviza la señal, lo que reduce las discontinuidades y distorsiones en el análisis de frecuencias, permitiendo una representación más precisa de las componentes de la señal.
 
 Además, la ventana de Hanning mejora la resolución de frecuencias, lo cual es crucial para identificar patrones de activación muscular. Su transición gradual, en comparación con otras ventanas más abruptas, minimiza la alteración de la forma de onda original.
 
