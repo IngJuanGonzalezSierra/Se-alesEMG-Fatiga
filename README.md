@@ -51,7 +51,7 @@ Estas especificaciones permiten capturar adecuadamente las señales ECG, reducie
 
 2. **Cálculo de Ωr**: Para la transformación de pasabanda a pasabajo, es necesario calcular el valor de Ωr utilizando las siguientes ecuaciones:
 
-  <img src="ecuaciones1.png" alt="Cálculo de Ωr" width="400"/>
+  ![Image](https://github.com/user-attachments/assets/34ed2d34-247f-44a4-93ba-c333eff60f5c)
 
    *Figura 2: Cálculo de Ωr mediante las ecuaciones necesarias.*
 
